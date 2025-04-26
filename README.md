@@ -188,7 +188,7 @@ Here’s what we plan to implement in future versions of iShop:
 - **Cloudinary:** Excellent service for managing media in the cloud.
 
 ## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/codingAjayKumar/Ecommerce-Platform/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/codingAjayKumar/Flutter-Ecommerce-app/blob/main/LICENSE) file for details.
 
 ## 👥 Authors & Contact
 Built with ❤️ by **Ajay Kumar**
